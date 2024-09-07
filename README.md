@@ -4,8 +4,10 @@
 ### Publications
 
 - 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (2022)
-- 📰 Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs (accepted)
-- 📰 Lock-free Computation of PageRank in Dynamic Graphs (accepted)
+- 📰 [Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596428/) (2024)
+- 📰 [Lock-free Computation of PageRank in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596502/) (2024)
+- 📰 [Fast Leiden Algorithm for Community Detection in Shared Memory Setting](https://dl.acm.org/doi/abs/10.1145/3673038.3673146) (2024)
+- 📰 [DF* PageRank: Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://link.springer.com/chapter/10.1007/978-3-031-69583-4_22) (2024)
 
 <br>
 
